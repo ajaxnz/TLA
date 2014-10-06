@@ -16,8 +16,10 @@
    * [Basics](action/basics)
    * [Danger](action/danger)
    * [Discovery](action/discovery)
-   * [The GM](action/the_gm)
-   * [Trust](action/trust)
+   * [Trust](action/trust.md)
+* [The World](the_world/README.md)
+   * [GM Moves](the_world/gm_moves)
+   * [Antagonists](the_world/antagonists)
 * [The Longer Term](campaigns/README.md)
 * [Complexities](complexities/README.md)
 
