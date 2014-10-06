@@ -6,26 +6,26 @@ The core outcome of building an agency is working out what a typical mission inv
 
 To answer these, discuss these topics as a group:
 
-What is the purpose of the agency?
-What is the scope? How high the stakes?
-A shootout at a mall is an enormous, climactic event for a CSI. It might be a low risk, comedy interlude for superspies.
-What kinds of trouble can the PCs ignore?
-What kind of opponents do you have?
-What genre is this?
-What genre tropes are expected? Encouraged or banned?
-Cliches are a double edged sword - often a short-hand that allows things to keep moving, but also a danger of repetition and blandness.
-Why does it have a team of field operatives? (if it doesn’t then it doesn’t need PCs!)
-What backgrounds are common in its agents?
-What skills must be present in the team?
-What must every agent be able to deal with?
-Missions?
-What do you know at the start?
-When do you know they are finished?
+* What is the purpose of the agency?
+* What is the scope? How high the stakes?
+ * A shootout at a mall is an enormous, climactic event for a CSI. It might be a low risk, comedy interlude for superspies.
+ * What kinds of trouble can the PCs ignore?
+ * What kind of opponents do you have?
+* What genre is this?
+ * What genre tropes are expected? Encouraged or banned?
+ * Cliches are a double edged sword - often a short-hand that allows things to keep moving, but also a danger of repetition and blandness.
+* Why does it have a team of field operatives? (if it doesn’t then it doesn’t need PCs!)
+ * What backgrounds are common in its agents?
+ * What skills must be present in the team?
+ * What can every agent deal with as a matter of course?
+* Missions?
+ * What do you know at the start?
+ * What do the players know that the characters do not
+ * When do you know they are finished?
 
 
 
 
-<sidebar>
 Two worked examples:
 
 ISIS (of Archer fame)
