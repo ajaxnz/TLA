@@ -1,0 +1,7 @@
+# Complexities
+
+
+Powers.
+
+Group stuff.
+
