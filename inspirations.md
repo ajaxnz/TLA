@@ -11,11 +11,14 @@
  * For dice that tell us about how, not whether our heroes succeed and fail.
  * For being thwarted by a revelation of more awesome - not by inability.
 * Spirit of the Century:
- * For having a list of questions that frame a campaign or mission
+ * For having a list of 
+ * questions that frame a campaign or mission
 * RISUS
  * Hairdressing as a combat skill.
  * That anything can be useful, no matter how improbable. And that it is often more interesting.
 * ?????
  * For the heroic montage of victory?
+ * Remember tomorrow
+  * For clarifying how a scene economy can work  
 
 
